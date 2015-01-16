@@ -4,9 +4,7 @@
 
     Object: establish The School of Artificial Intelligence Management (TSOAIM).
     
-    Method:
-    
-    Using knowledge integration and innovation of accounting, statistics, AI(artificial intelligence),
+    Method: Using knowledge integration and innovation of accounting, statistics, AI(artificial intelligence),
 AI logic rules-driven data mining automation in finance analysis, AI logic rules similar to signature scanning 
 technology of antivirus software (identify known patterns, more accurate), data mining and machine learning is 
 similar to behavior recognition techniques of antivirus software (identifying unknown patterns, more uncertainties),
@@ -17,10 +15,9 @@ systems).
     
     Conclusion: How wonderful! 
     
-    Author: 
-    
-    Lin Pengcheng [AI Expert Systems Developer, CPA (Certified Public Accountant), CTA (Certified Tax Agents), 
-CIA (Certified Internal Auditor), Senior Statistician, Software Engineer].
+    Author: Lin Pengcheng 
+    AI Expert Systems Developer, CPA (Certified Public Accountant), CTA (Certified Tax Agents), 
+CIA (Certified Internal Auditor), Senior Statistician, Software Engineer.
 
 ## Download
 
