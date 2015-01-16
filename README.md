@@ -2,10 +2,10 @@
 
 ## Abstract:
 
-    Object: 
-    establish The School of Artificial Intelligence Management (TSOAIM).
+    Object: establish The School of Artificial Intelligence Management (TSOAIM).
     
     Method:
+    
     Using knowledge integration and innovation of accounting, statistics, AI(artificial intelligence),
 AI logic rules-driven data mining automation in finance analysis, AI logic rules similar to signature scanning 
 technology of antivirus software (identify known patterns, more accurate), data mining and machine learning is 
@@ -13,13 +13,12 @@ similar to behavior recognition techniques of antivirus software (identifying un
 it make finance analysis software into antivirus software of ERP systems (enterprise information systems, financial 
 systems).
     
-    Result: 
-    Building financial analysis expert system.
+    Result: Building financial analysis expert system.
     
-    Conclusion: 
-    How wonderful! 
+    Conclusion: How wonderful! 
     
     Author: 
+    
     Lin Pengcheng [AI Expert Systems Developer, CPA (Certified Public Accountant), CTA (Certified Tax Agents), 
 CIA (Certified Internal Auditor), Senior Statistician, Software Engineer].
 
