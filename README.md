@@ -15,15 +15,14 @@ systems).
     
     Conclusion: How wonderful! 
     
-    Author: Lin Pengcheng 
-    AI Expert Systems Developer, CPA (Certified Public Accountant), CTA (Certified Tax Agents), 
-CIA (Certified Internal Auditor), Senior Statistician, Software Engineer.
+    Author: Lin Pengcheng [AI Expert Systems Developer, CPA (Certified Public Accountant), 
+CTA (Certified Tax Agents), CIA (Certified Internal Auditor), Senior Statistician, Software Engineer].
 
 ## Download
 
 ## What's new?
 
-2.current version (0.9.2015.x.x) :
+### 2.current version (0.9.2015.x.x) :
 
 [1].Multithreading support.
 
@@ -35,6 +34,6 @@ CIA (Certified Internal Auditor), Senior Statistician, Software Engineer.
 
 [5].Multi-language support.
 
-1.version: 0.9.2011.5.20: 
+### 1.version: 0.9.2011.5.20: 
 
 [1].it just a demo, only Dupont Analysis.
