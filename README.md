@@ -25,8 +25,8 @@ systems).
 * CIA (USA Certified Internal Auditor), 
 * Senior Statistician, 
 * Software Engineer.
-* Work at: medical record office, the First Hospital of Quanzhou, Fujian, China. 
-* Job Description: input basic information of medical record.
+* Work at: Medical Record Office, the First Hospital of Quanzhou, Fujian, China. 
+* Job Description: Input basic information of medical record.
 
 ## Download
 
