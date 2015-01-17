@@ -26,7 +26,7 @@ systems).
 * Senior Accountant,
 * Senior Statistician, 
 * Software Engineer.
-* 
+
 * Work at: Medical Record Office, the First Hospital of Quanzhou, Fujian, China. 
 * Job Description: Input basic information of medical record.
 
