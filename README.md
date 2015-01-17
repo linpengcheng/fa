@@ -23,8 +23,10 @@ systems).
 * CPA (Chinese Certified Public Accountant), 
 * CTA (Chinese Certified Tax Agents), 
 * CIA (USA Certified Internal Auditor), 
+* Senior Accountant,
 * Senior Statistician, 
 * Software Engineer.
+* 
 * Work at: Medical Record Office, the First Hospital of Quanzhou, Fujian, China. 
 * Job Description: Input basic information of medical record.
 
