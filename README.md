@@ -20,9 +20,9 @@ systems).
 # Author: Lin Pengcheng 
 
 * AI Expert Systems Developer, 
-* CPA (Certified Public Accountant), 
-* CTA (Certified Tax Agents), 
-* CIA (Certified Internal Auditor), 
+* CPA (Chinese Certified Public Accountant), 
+* CTA (Chinese Certified Tax Agents), 
+* CIA (USA Certified Internal Auditor), 
 * Senior Statistician, 
 * Software Engineer.
 * Work at: medical record office, the First Hospital of Quanzhou, Fujian, China. 
