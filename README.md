@@ -19,7 +19,7 @@ systems).
     
     Author: Lin Pengcheng [AI Expert Systems Developer, CPA (Certified Public Accountant), 
 CTA (Certified Tax Agents), CIA (Certified Internal Auditor), Senior Statistician, Software Engineer].
-Work at: medical record room, the First Hospital of Quanzhou, Fujian, China. 
+Work at: medical record office, the First Hospital of Quanzhou, Fujian, China. 
 Job Description: input basic information of medical record.
 
 ## Download
