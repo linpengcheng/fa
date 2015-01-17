@@ -1,5 +1,7 @@
 # Lin Pengcheng Financial Analyser Documentation
 
+Lin Pengcheng Financial Analyser is a personal amateur software.
+
 ## Abstract:
 
     Object: establish The School of Artificial Intelligence Management (TSOAIM).
@@ -13,10 +15,12 @@ systems).
     
     Result: Building financial analysis expert system.
     
-    Conclusion: How wonderful! 
+    Conclusion: How cool!
     
     Author: Lin Pengcheng [AI Expert Systems Developer, CPA (Certified Public Accountant), 
 CTA (Certified Tax Agents), CIA (Certified Internal Auditor), Senior Statistician, Software Engineer].
+Work at: medical record room, the First Hospital of Quanzhou, Fujian, China. 
+Job Description: input basic information of medical record.
 
 ## Download
 
@@ -34,6 +38,12 @@ CTA (Certified Tax Agents), CIA (Certified Internal Auditor), Senior Statisticia
 
 [5].Multi-language support.
 
+[6].generate pdf file.
+
 ### 1.version: 0.9.2011.5.20: 
 
-[1].it just a demo, only Dupont Analysis.
+[1].it just a demo.
+
+[2].only Creative tree expand Dupont Analysis.
+
+[3].generate pdf file.
