@@ -25,7 +25,7 @@ come soon...
 
 ### 2.current version (0.9.2015.x.x) :
 
-* Increase the warning value, ideal value.
+* Increase custom the warning value, ideal value.
 * Analyze table for commonly used indicators and financial Statements.
 * Tips of analysis
 * Cross references for item of analysis.
@@ -37,6 +37,7 @@ come soon...
 ### 1.version: 0.9.2011.0520: 
 
 * It just a demo.
+* Custom ideal value.
 * Only Creative tree expand of Dupont Analysis.
 * Only Chinese.
 * Generate pdf file.
