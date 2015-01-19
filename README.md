@@ -26,31 +26,21 @@ come soon...
 
 ### 2.current version (0.9.2015.x.x) :
 
-[1].Increase the warning value, ideal value.
-
-[2].Analyze table for commonly used indicators and financial Statements.
-
-[3].Tips of analysis
-
-[4].Cross references for item of analysis.
-
-[5].Multithreading support.
-
-[6].Multi-language support.
-
-[7].generate pdf file.
-
-[8].Power by .net 4.0, Clojure-clr 1.6, PostgreSQL 9.4.
+* Increase the warning value, ideal value.
+* Analyze table for commonly used indicators and financial Statements.
+* Tips of analysis
+* Cross references for item of analysis.
+* Multithreading support.
+* Multi-language support.
+* Generate pdf file.
+* Power by .net 4.0, Clojure-clr 1.6, PostgreSQL 9.4.
 
 ### 1.version: 0.9.2011.5.20: 
 
-[1].it just a demo.
-
-[2].only Creative tree expand of Dupont Analysis.
-
-[3].generate pdf file.
-
-[4].Power by .net 3.5, C#, Access database.
+* It just a demo.
+* Only Creative tree expand of Dupont Analysis.
+* Generate pdf file.
+* Power by .net 3.5, C#, Access database.
 
 ## Author: Lin Pengcheng 
 
