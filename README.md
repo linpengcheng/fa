@@ -16,21 +16,10 @@ systems).
     Result: Building financial analysis expert system.
     
     Conclusion: How cool!
-    
-# Author: Lin Pengcheng 
-
-* AI Expert Systems Developer, 
-* CPA (Chinese Certified Public Accountant), 
-* CTA (Chinese Certified Tax Agents), 
-* CIA (USA Certified Internal Auditor), 
-* Senior Accountant,
-* Senior Statistician, 
-* Software Engineer.
-* ---
-* Work at: Medical Record Office, the First Hospital of Quanzhou, Fujian, China. 
-* Job Description: Input basic information of medical record.
 
 ## Download
+
+come soon...
 
 ## What's new?
 
@@ -55,3 +44,29 @@ systems).
 [2].only Creative tree expand Dupont Analysis.
 
 [3].generate pdf file.
+
+    
+## Author: Lin Pengcheng 
+
+### Qualifications
+
+* AI Expert Systems Developer, 
+* CPA (Chinese Certified Public Accountant), 
+* CTA (Chinese Certified Tax Agents), 
+* CIA (USA Certified Internal Auditor), 
+* Senior Accountant,
+* Senior Statistician, 
+* Software Engineer.
+
+### Education
+
+* 1990-1993, Planning and Statistics, Secondary, Full-time, Quanzhou Business School, Fujian, China. 
+* 1994-1996, Accounting, College, Self-examination forms of education, Xiamen University,  China. 
+* 1995-1998, Computer and its applications, College, Self-examination forms of education, Fuzhou University, China. 
+* 2011-2014, Accounting, Bachelor of Management, Amateur forms of education, Huaqiao University, China. 
+
+### Occupation
+
+* Work at: Medical Record Office, the First Hospital of Quanzhou, Fujian, China. 
+* Job Description: Input basic information of medical record.
+
