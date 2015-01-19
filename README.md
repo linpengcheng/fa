@@ -4,18 +4,19 @@ Lin Pengcheng Financial Analyser is a personal amateur software.
 
 ## Abstract:
 
-    Object: establish The School of Artificial Intelligence Management (TSOAIM).
+**Object**: establish The School of Artificial Intelligence Management (TSOAIM).
     
-    Method: Using knowledge integration and innovation of accounting, statistics, AI,
+**Method**: 
+Using knowledge integration and innovation of accounting, statistics, AI, 
 AI (artificial intelligence) logic rules-driven data mining automation in finance analysis, AI logic rules similar to signature scanning 
 technology of antivirus software (identify known patterns, more accurate), data mining and machine learning is 
 similar to behavior recognition techniques of antivirus software (identifying unknown patterns, more uncertainties),
 it make finance analysis software into antivirus software of ERP systems (enterprise information systems, financial 
 systems).
     
-    Result: Building financial analysis expert system.
+**Result**: Building financial analysis expert system.
     
-    Conclusion: How cool!
+**Conclusion**: How cool!
 
 ## Download
 
@@ -37,15 +38,18 @@ come soon...
 
 [6].generate pdf file.
 
+[7].Power by .net 4.0, Clojure-clr 1.6, PostgreSQL 9.4.
+
 ### 1.version: 0.9.2011.5.20: 
 
 [1].it just a demo.
 
-[2].only Creative tree expand Dupont Analysis.
+[2].only Creative tree expand of Dupont Analysis.
 
 [3].generate pdf file.
 
-    
+[7].Power by .net 3.5, C#, Access database.
+
 ## Author: Lin Pengcheng 
 
 ### Qualifications
@@ -60,13 +64,12 @@ come soon...
 
 ### Education
 
-* 1990-1993, Planning and Statistics, Secondary, Full-time, Quanzhou Business School, Fujian, China. 
-* 1994-1996, Accounting, College, Self-examination forms of education, Xiamen University,  China. 
-* 1995-1998, Computer and its applications, College, Self-examination forms of education, Fuzhou University, China. 
-* 2011-2014, Accounting, Bachelor of Management, Amateur forms of education, Huaqiao University, China. 
+* 2011-2014, Accounting, Bachelor of Management, Sparetime Education, Huaqiao University, China. 
+* 1995-1998, Computer and its Applications, Junior College, Self-Study Examination, Fuzhou University, China. 
+* 1994-1996, Accounting, Junior College, Self-Study Examination, Xiamen University,  China. 
+* 1990-1993, Planning and Statistics, Technical Secondary School, Full-time, Quanzhou Business School, Fujian, China. 
 
 ### Occupation
 
 * Work at: Medical Record Office, the First Hospital of Quanzhou, Fujian, China. 
 * Job Description: Input basic information of medical record.
-
