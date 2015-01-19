@@ -29,8 +29,8 @@ come soon...
 * Analyze table for commonly used indicators and financial Statements.
 * Tips of analysis
 * Cross references for item of analysis.
-* Multithreading support.
-* Multi-language support.
+* Multithreading Analysis.
+* Multi-language Support: Chinese, English, Chinese-English.
 * Generate pdf file.
 * Power by .net 4.0, Clojure-clr 1.6, PostgreSQL 9.4.
 
@@ -38,6 +38,7 @@ come soon...
 
 * It just a demo.
 * Only Creative tree expand of Dupont Analysis.
+* Only Chinese.
 * Generate pdf file.
 * Power by .net 3.5, C#, Access database.
 
