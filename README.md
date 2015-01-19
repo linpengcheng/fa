@@ -6,9 +6,8 @@ Lin Pengcheng Financial Analyser is a personal amateur software.
 
 **Object**: establish The School of Artificial Intelligence Management (TSOAIM).
     
-**Method**: 
-Using knowledge integration and innovation of accounting, statistics, AI, 
-AI (artificial intelligence) logic rules-driven data mining automation in finance analysis, AI logic rules similar to signature scanning 
+**Method**: Using knowledge integration and innovation of accounting, statistics, AI (artificial intelligence), 
+AI logic rules-driven data mining automation in finance analysis, AI logic rules similar to signature scanning 
 technology of antivirus software (identify known patterns, more accurate), data mining and machine learning is 
 similar to behavior recognition techniques of antivirus software (identifying unknown patterns, more uncertainties),
 it make finance analysis software into antivirus software of ERP systems (enterprise information systems, financial 
