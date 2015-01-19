@@ -34,7 +34,7 @@ come soon...
 * Generate pdf file.
 * Power by .net 4.0, Clojure-clr 1.6, PostgreSQL 9.4.
 
-### 1.version: 0.9.2011.5.20: 
+### 1.version: 0.9.2011.0520: 
 
 * It just a demo.
 * Only Creative tree expand of Dupont Analysis.
