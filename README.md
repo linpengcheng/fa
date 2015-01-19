@@ -26,19 +26,21 @@ come soon...
 
 ### 2.current version (0.9.2015.x.x) :
 
-[1].Multithreading support.
+[1].Increase the warning value, ideal value.
 
-[2].Increase the warning value, ideal value.
+[2].Analyze table for commonly used indicators and financial Statements.
 
-[3].Analyze table for commonly used indicators and financial Statements.
+[3].Tips of analysis
 
 [4].Cross references for item of analysis.
 
-[5].Multi-language support.
+[5].Multithreading support.
 
-[6].generate pdf file.
+[6].Multi-language support.
 
-[7].Power by .net 4.0, Clojure-clr 1.6, PostgreSQL 9.4.
+[7].generate pdf file.
+
+[8].Power by .net 4.0, Clojure-clr 1.6, PostgreSQL 9.4.
 
 ### 1.version: 0.9.2011.5.20: 
 
@@ -48,7 +50,7 @@ come soon...
 
 [3].generate pdf file.
 
-[7].Power by .net 3.5, C#, Access database.
+[4].Power by .net 3.5, C#, Access database.
 
 ## Author: Lin Pengcheng 
 
