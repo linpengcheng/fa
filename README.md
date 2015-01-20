@@ -6,7 +6,7 @@ Copyright © 2008-2015 Lin Pengcheng. All rights reserved.
 
 ## Abstract:
 
-**Object**: establish The School of Artificial Intelligence Management (TSOAIM).
+**Object**: establish Artificial Intelligence Management School (AIMS).
     
 **Method**: Using knowledge integration and innovation of accounting, statistics, AI (Artificial Intelligence). 
 AI logic rules-driven data mining automation in finance analysis, AI logic rules similar to signature scanning 
@@ -25,7 +25,7 @@ come soon...
 
 ## Roadmap
 
-* Data Visualization, power by incanter, R ggplot2, etc.
+* Data Visualization, power by incanter, R package ggplot2, etc.
 * AI logic rules, power by clojure core.logic.
 * Data Mining and Machine Learning, power by incanter, weka, R, etc.
 * Distributed Computing.
