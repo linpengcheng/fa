@@ -29,7 +29,7 @@ come soon...
 
 * Data Visualization, power by incanter, R ggplot2, etc.
 * AI logic rules, power by clojure core.logic.
-* Data Mining and Machine Learning, power by power by incanter, weka, R, etc.
+* Data Mining and Machine Learning, power by incanter, weka, R, etc.
 
 ### 2.current version (0.9.2015.x.x) :
 
