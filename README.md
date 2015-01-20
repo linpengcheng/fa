@@ -47,6 +47,8 @@ come soon...
 
 ## Author: Lin Pengcheng 
 
+### Birth Date: 1976.1
+
 ### Qualifications
 
 * AI Expert Systems Developer, 
