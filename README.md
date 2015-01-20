@@ -2,6 +2,8 @@
 
 Lin Pengcheng Financial Analyser is a personal amateur software.
 
+Copyright © 2008-2015 Lin Pengcheng. All rights reserved.
+
 ## Abstract:
 
 **Object**: establish The School of Artificial Intelligence Management (TSOAIM).
@@ -55,14 +57,14 @@ come soon...
 * Senior Statistician, 
 * Software Engineer.
 
-### Education
+### Education Background
 
 * 2011-2014, Accounting, Bachelor of Management, Sparetime Education, Huaqiao University, China. 
 * 1995-1998, Computer and its Applications, Junior College, Self-Study Examination, Fuzhou University, China. 
 * 1994-1996, Accounting, Junior College, Self-Study Examination, Xiamen University,  China. 
 * 1990-1993, Planning and Statistics, Technical Secondary School, Full-time, Quanzhou Business School, Fujian, China. 
 
-### Occupation
+### Professional Experience
 
-* Work at: Medical Record Office, the First Hospital of Quanzhou, Fujian, China. 
+* Work at: Medical Record Office, Medical Department, the First Hospital of Quanzhou, Fujian, China. 
 * Job Description: Input basic information of medical record.
