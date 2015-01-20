@@ -4,6 +4,10 @@ Lin Pengcheng Financial Analyser is a personal amateur software.
 
 Copyright © 2008-2015 Lin Pengcheng. All rights reserved.
 
+homepage: https://github.com/linpengcheng/fa
+
+email: linpengchengfa@163.com
+
 ## Abstract:
 
 **Object**: establish Artificial Intelligence Management School (AIMS).
