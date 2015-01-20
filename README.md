@@ -17,19 +17,20 @@ systems).
     
 **Result**: Building financial analysis expert system.
     
-**Conclusion**: How cool!
+**Conclusion**: How Cool!
 
 ## Download
 
 come soon...
 
-## What's new?
-
-### Roadmap
+## Roadmap
 
 * Data Visualization, power by incanter, R ggplot2, etc.
 * AI logic rules, power by clojure core.logic.
 * Data Mining and Machine Learning, power by incanter, weka, R, etc.
+* Distributed Computing.
+
+## What's new?
 
 ### 2.current version (0.9.2015.x.x) :
 
