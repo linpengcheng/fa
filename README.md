@@ -28,7 +28,7 @@ come soon...
 * Migrating to JVM platform.
 * Data Visualization, power by incanter, R package ggplot2, etc.
 * AI logic rules, power by clojure core.logic.
-* Data Mining and Machine Learning, power by incanter, weka, R, etc.
+* Statistics, Data Mining and Machine Learning, power by incanter, weka, R, etc.
 * Distributed Computing.
 
 ## What's new?
