@@ -6,6 +6,8 @@ Copyright © 2008-2015 Lin Pengcheng. All rights reserved.
 
 homepage: https://github.com/linpengcheng/fa
 
+twitter: https://twitter.com/LinPengchengFA
+
 email: linpengchengfa@163.com
 
 ## Abstract:
