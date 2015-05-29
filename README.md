@@ -39,7 +39,7 @@ come soon...
 
 ## What's new?
 
-### 2.current version (0.9.2015.x.x) :
+### 2.current version (0.10.2015.x.x) :
 
 * Increase custom the warning value, ideal value.
 * Analyze table for commonly used indicators and financial Statements.
