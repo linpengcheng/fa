@@ -48,7 +48,7 @@ come soon...
 * Multithreading Analysis.
 * Multi-language Support: Chinese, English, Chinese-English.
 * Generate pdf file.
-* Power by .net 4.0, Clojure-clr 1.6, PostgreSQL 9.4.
+* Power by .net 4.0, Clojure-clr 1.7.0 beta 1, PostgreSQL 9.3.7.
 
 ### 1.version: 0.9.2011.0520: 
 
