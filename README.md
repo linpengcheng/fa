@@ -8,6 +8,14 @@ homepage: https://github.com/linpengcheng/fa
 
 twitter: https://twitter.com/LinPengchengFA
 
+facebook: https://www.facebook.com/profile.php?id=100009394282332
+
+facebook: https://www.facebook.com/pages/Lin-Pengcheng-Financial-Analyser/934137096638674
+
+forum:    https://groups.google.com/forum/#!forum/linpengchengfa
+
+forum email: linpengchengfa@googlegroups.com
+
 email: linpengchengfa@163.com
 
 ## Abstract:
