@@ -37,15 +37,15 @@ systems).
 
 English Website:
 
-32-bit Windows: https://drive.google.com/file/d/0By5ssgBX1IWaYzRjRUdqaWVRNFU/view?usp=sharing
+Only for 32-bit Windows: https://drive.google.com/file/d/0By5ssgBX1IWaYzRjRUdqaWVRNFU/view?usp=sharing
 
-64-bit Windows: https://drive.google.com/file/d/0By5ssgBX1IWaN0lveVZIWXZuZTg/view?usp=sharing
+Only for 64-bit Windows: https://drive.google.com/file/d/0By5ssgBX1IWaN0lveVZIWXZuZTg/view?usp=sharing
 
-chinese Website:
+Chinese Website:
 
-32-bit Windows: http://pan.baidu.com/s/1hqGQpFI
+Only for 32-bit Windows: http://pan.baidu.com/s/1hqGQpFI
 
-64-bit Windows: http://pan.baidu.com/s/1eQ0FwzS
+Only for 64-bit Windows: http://pan.baidu.com/s/1eQ0FwzS
 
 ## Roadmap
 
