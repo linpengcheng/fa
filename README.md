@@ -59,6 +59,9 @@ Only for 64-bit Windows: http://pan.baidu.com/s/1eQ0FwzS
 
 * Migrating to JVM platform, power by Clojure Luminus web application.
 * Data Visualization, power by incanter, R package ggplot2, etc.
+* Power by JDK 1.8 , Clojure 1.8, PostgreSQL 9.5, H2Database, html5.
+* Required OS: Windows 7 or later, 
+* Required browser options: Chrome (recommend), FireFox, IE 9  or later
 
 ## What's new?
 
