@@ -49,11 +49,16 @@ Only for 64-bit Windows: http://pan.baidu.com/s/1eQ0FwzS
 
 ## Roadmap
 
-* Migrating to JVM platform.
+* Migrating to JVM platform, power by Clojure Luminus web application.
 * Data Visualization, power by incanter, R package ggplot2, etc.
 * AI logic rules, power by clojure core.logic.
 * Statistics, Data Mining and Machine Learning, power by incanter, weka, R, etc.
-* Distributed Computing.
+* Distributed Computing, power by Immutant.
+
+## Developing:
+
+* Migrating to JVM platform, power by Clojure Luminus web application.
+* Data Visualization, power by incanter, R package ggplot2, etc.
 
 ## What's new?
 
