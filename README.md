@@ -18,6 +18,8 @@ forum email: linpengchengfa@googlegroups.com
 
 email: linpengchengfa@163.com
 
+QQ Group id: 214691668
+
 ## Abstract:
 
 **Object**: establish Artificial Intelligence Management School (AIMS).
