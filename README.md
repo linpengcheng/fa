@@ -43,9 +43,7 @@ Only for 32-bit Windows: https://drive.google.com/file/d/0By5ssgBX1IWaYzRjRUdqaW
 
 Only for 64-bit Windows: https://drive.google.com/file/d/0By5ssgBX1IWaN0lveVZIWXZuZTg/view?usp=sharing
 
-Chinese Website:
-
-http://blog.sina.com.cn/s/blog_7279daf40101bfiu.html
+Chinese Website: http://blog.sina.com.cn/s/blog_7279daf40101bfiu.html
 
 ## Roadmap
 
