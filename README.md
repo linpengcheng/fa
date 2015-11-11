@@ -45,9 +45,7 @@ Only for 64-bit Windows: https://drive.google.com/file/d/0By5ssgBX1IWaN0lveVZIWX
 
 Chinese Website:
 
-Only for 32-bit Windows: http://pan.baidu.com/s/1hqGQpFI
-
-Only for 64-bit Windows: http://pan.baidu.com/s/1eQ0FwzS
+                http://blog.sina.com.cn/s/blog_7279daf40101bfiu.html
 
 ## Roadmap
 
