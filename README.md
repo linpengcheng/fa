@@ -47,8 +47,6 @@ Chinese Website: http://blog.sina.com.cn/s/blog_7279daf40101bfiu.html
 
 ## Roadmap
 
-* Migrating to JVM platform, power by Clojure Luminus web application.
-* Data Visualization, power by incanter, R package ggplot2, etc.
 * AI logic rules, power by clojure core.logic.
 * Statistics, Data Mining and Machine Learning, power by incanter, weka, R, etc.
 * Distributed Computing, power by Immutant.
