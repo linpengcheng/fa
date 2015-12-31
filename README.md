@@ -88,9 +88,9 @@ Chinese Website: http://blog.sina.com.cn/s/blog_7279daf40101bfiu.html
 ### Qualifications
 
 * AI Expert Systems Developer, 
-* CPA (Chinese Certified Public Accountant), 
-* CTA (Chinese Certified Tax Agents), 
-* CIA (USA Certified Internal Auditor), 
+* CPA (Certified Public Accountant, China), 
+* CTA (Certified Tax Agents, China), 
+* CIA (Certified Internal Auditor, USA), 
 * Senior Accountant,
 * Senior Statistician, 
 * Software Engineer.
