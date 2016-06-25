@@ -55,7 +55,7 @@ Chinese Website: http://blog.sina.com.cn/s/blog_7279daf40101bfiu.html
 
 * Migrating to JVM platform, power by Clojure Luminus web application.
 * Data Visualization, power by incanter, R package ggplot2, etc.
-* Power by JDK 1.8 , Clojure 1.8, PostgreSQL 9.5, H2Database, html5.
+* Power by JDK 1.8 , Clojure 1.9, PostgreSQL 9.6, html5.
 * Required OS: Windows 7 or later, 
 * Required browser options: Chrome (recommend), FireFox, IE 9  or later
 
