@@ -6,15 +6,7 @@ Copyright © 2008-2015 Lin Pengcheng. All rights reserved.
 
 homepage: https://github.com/linpengcheng/fa
 
-twitter: https://twitter.com/LinPengchengFA
-
-facebook: https://www.facebook.com/profile.php?id=100009394282332
-
-facebook: https://www.facebook.com/pages/Lin-Pengcheng-Financial-Analyser/934137096638674
-
 forum:    https://groups.google.com/forum/#!forum/linpengchengfa
-
-forum email: linpengchengfa@googlegroups.com
 
 email: linpengchengfa@163.com
 
@@ -55,6 +47,7 @@ Chinese Website: http://blog.sina.com.cn/s/blog_7279daf40101bfiu.html
 
 * Migrating to JVM platform, power by Clojure Luminus web application.
 * Data Visualization, power by incanter, R package ggplot2, etc.
+* Add DataFrame & DataCube technique on DataFlow.
 * Power by JDK 1.8 , Clojure 1.9, PostgreSQL 9.6, html5.
 * Required OS: Windows 7 or later, 
 * Required browser options: Chrome (recommend), FireFox, IE 9  or later
@@ -69,6 +62,7 @@ Chinese Website: http://blog.sina.com.cn/s/blog_7279daf40101bfiu.html
 * Cross references for item of analysis.
 * Multithreading Analysis.
 * Multi-language Support: Chinese, English, Chinese-English.
+* Creative DataFlow technique (from Business management and industrial lines)
 * Generate pdf file.
 * Power by .net 4.0, Clojure-clr 1.7.0 beta 1, PostgreSQL 9.3.7, sqlce 4.0.
 
