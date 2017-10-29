@@ -40,7 +40,7 @@ Chinese Website: http://blog.sina.com.cn/s/blog_7279daf40101bfiu.html
 ## Roadmap
 
 * AI logic rules, power by clojure core.logic.
-* Statistics, Data Mining and Machine Learning, power by incanter, weka, R, etc.
+* Statistics, Probabilistic Programming, Data Mining and Machine Learning, power by incanter, weka, R, etc.
 * Distributed Computing, power by Immutant.
 
 ## Developing:
