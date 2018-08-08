@@ -8,7 +8,7 @@ Copyright © 2008-2015 Lin Pengcheng. All rights reserved.
 
 homepage: https://github.com/linpengcheng/fa
 
-forum:    https://groups.google.com/forum/#!forum/linpengchengfa
+forum:    https://github.com/linpengcheng/fa/issues
 
 email: linpengchengfa@163.com
 
