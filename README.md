@@ -115,7 +115,9 @@ Chinese Website: http://blog.sina.com.cn/s/blog_7279daf40101bfiu.html
 
 * Senior Statistician, 
 
-* Software Engineer.
+* Software Engineer,
+
+* Senior ICD coder (International Classification of Diseases).
 
 ### Education Background
 
