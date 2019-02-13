@@ -1,11 +1,22 @@
 # Lin Pengcheng Financial Analyser Home
 # 林鹏程财务分析软件 主页
 
+Copyright © 2008-2015 Lin Pengcheng. All rights reserved.
+
+## Table of Contents
+- [Introductions](#Introductions)
+- [Abstract](#Abstract)
+- [Download](#Download)
+- [Roadmap](#Roadmap)
+- [Developing](#Developing)
+- [Release](#Release)
+- [About Author](#About-Author)
+
+## Introductions
+
 Lin Pengcheng Financial Analyser is a personal amateur software.
 
 It's the largest personal Clojure project in the world.
-
-Copyright © 2008-2015 Lin Pengcheng. All rights reserved.
 
 homepage: https://github.com/linpengcheng/fa
 
@@ -14,14 +25,6 @@ forum:    https://github.com/linpengcheng/fa/issues
 email: linpengchengfa@163.com
 
 QQ Group id: 214691668
-
-## Table of Contents
-- [Abstract](#Abstract)
-- [Download](#Download)
-- [Roadmap](#Roadmap)
-- [Developing](#Developing)
-- [Release](#Release)
-- [About Author](#About-Author)
 
 ## Abstract
 
