@@ -1,4 +1,5 @@
-# Lin Pengcheng Financial Analyser Documentation
+# Lin Pengcheng Financial Analyser Home
+# 林鹏程财务分析软件 主页
 
 Lin Pengcheng Financial Analyser is a personal amateur software.
 
@@ -14,7 +15,15 @@ email: linpengchengfa@163.com
 
 QQ Group id: 214691668
 
-## Abstract:
+## Table of Contents
+- [Abstract](#Abstract)
+- [Download](#Download)
+- [Roadmap](#Roadmap)
+- [Developing](#Developing)
+- [Release](#Release)
+- [About Author](#About-Author)
+
+## Abstract
 
 **Object**: establish Artificial Intelligence Management School (AIMS).
     
@@ -47,7 +56,7 @@ Chinese Website: http://blog.sina.com.cn/s/blog_7279daf40101bfiu.html
 
 * Distributed Computing, power by Immutant.
 
-## Developing:
+## Developing
 
 * Migrating to JVM platform, power by Clojure Luminus web application.
 
@@ -61,7 +70,7 @@ Chinese Website: http://blog.sina.com.cn/s/blog_7279daf40101bfiu.html
 
 * Required browser options: Chrome (recommend), FireFox, IE 9  or later
 
-## What's new?
+## Release
 
 ### 2.current version (0.10.2015.6.1) :
 
@@ -97,7 +106,9 @@ Chinese Website: http://blog.sina.com.cn/s/blog_7279daf40101bfiu.html
 
 * Power by .net 3.5, C#, Access database.
 
-## Author: Lin Pengcheng 
+## About Author
+
+### Author：Lin Pengcheng 
 
 ### Birth Date: 1976.1
 
