@@ -1,5 +1,6 @@
 # Lin Pengcheng Financial Analyser Homepage
-# 林鹏程财务分析软件 主页
+
+Chinese Name: 林鹏程财务分析软件
 
 Copyright © 2008-2015 Lin Pengcheng. All rights reserved.
 
