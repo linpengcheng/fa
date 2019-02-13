@@ -1,4 +1,4 @@
-# Lin Pengcheng Financial Analyser Home
+# Lin Pengcheng Financial Analyser Homepage
 # 林鹏程财务分析软件 主页
 
 Copyright © 2008-2015 Lin Pengcheng. All rights reserved.
