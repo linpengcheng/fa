@@ -33,8 +33,8 @@ QQ Group id: 214691668
     
 **Method**: Using knowledge integration and innovation of accounting, statistics, AI (Artificial Intelligence). 
 AI logic rules-driven data mining automation in finance analysis, AI logic rules similar to signature scanning 
-technology of antivirus software (identify known patterns, more accurate, statute law), data mining and machine learning is 
-similar to behavior recognition techniques of antivirus software (identifying unknown patterns, more uncertainties, case law),
+technology of antivirus software (statute law, identify known patterns, more accurate), data mining and machine learning is 
+similar to behavior recognition techniques of antivirus software (case law, identifying unknown patterns, more uncertainties),
 it make finance analysis software into antivirus software of ERP systems (enterprise information systems, financial 
 systems).
     
