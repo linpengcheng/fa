@@ -11,7 +11,7 @@ Copyright © 2008-2015 Lin Pengcheng. All rights reserved.
 - [Roadmap](#Roadmap)
 - [Developing](#Developing)
 - [Release](#Release)
-- [About Author](#About-Author)
+- [About Author: Lin Pengcheng](https://github.com/linpengcheng/myresume)
 
 ## Introductions
 
@@ -110,42 +110,4 @@ Chinese Website: http://blog.sina.com.cn/s/blog_7279daf40101bfiu.html
 
 * Power by .net 3.5, C#, Access database.
 
-## About Author
 
-### Author：Lin Pengcheng 
-
-### Birth Date: 1976.1
-
-### Qualifications
-
-* AI Expert Systems Developer, 
-
-* CPA (Certified Public Accountant, China), 
-
-* CTA (Certified Tax Agents, China),
-
-* CIA (Certified Internal Auditor, USA), 
-
-* Senior Accountant,
-
-* Senior Statistician, 
-
-* Software Engineer,
-
-* Senior ICD coder (International Classification of Diseases).
-
-### Education Background
-
-* 2011-2014, Accounting, Bachelor of Management, Sparetime Education, Huaqiao University, China. 
-
-* 1995-1998, Computer and its Applications, Junior College, Self-Study Examination, Fuzhou University, China. 
-
-* 1994-1996, Accounting, Junior College, Self-Study Examination, Xiamen University,  China.
-
-* 1990-1993, Planning and Statistics, Technical Secondary School, Full-time, Quanzhou Business School, Fujian, China. 
-
-### Professional Experience
-
-* Work at: Medical Record Office, Medical Department, the First Hospital of Quanzhou, Fujian, China. 
-
-* Job Description: Input basic information of medical record.
