@@ -64,6 +64,8 @@ Chinese Website: http://blog.sina.com.cn/s/blog_7279daf40101bfiu.html
 
 * Migrating to JVM platform, power by Clojure Luminus web application.
 
+* Logic-based financial analysis
+
 * Data Visualization, power by incanter, R package ggplot2, etc.
 
 * Add DataFrame & DataCube technique on DataFlow.
