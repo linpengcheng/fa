@@ -19,9 +19,11 @@ Lin Pengcheng Financial Analyser is a personal amateur software.
 
 It's the largest personal Clojure project in the world.
 
-homepage: https://github.com/linpengcheng/fa
+Homepage: https://github.com/linpengcheng/fa
 
-forum:    https://github.com/linpengcheng/fa/issues
+User forum: https://github.com/linpengcheng/fa/discussions
+
+Report bug: https://github.com/linpengcheng/fa/issues
 
 email: linpengchengfa@163.com
 
@@ -49,8 +51,6 @@ English Website:
 Only for 32-bit Windows: https://drive.google.com/file/d/0By5ssgBX1IWaYzRjRUdqaWVRNFU/view?usp=sharing
 
 Only for 64-bit Windows: https://drive.google.com/file/d/0By5ssgBX1IWaN0lveVZIWXZuZTg/view?usp=sharing
-
-Chinese Website: http://blog.sina.com.cn/s/blog_7279daf40101bfiu.html
 
 ## Roadmap
 
